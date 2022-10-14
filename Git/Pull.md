@@ -6,7 +6,7 @@ ex. 多台設備同步專案
   
 ## Terminal  
   
-cd to location before operate
+cd to directory before operate
   
 ### Command
 ```
