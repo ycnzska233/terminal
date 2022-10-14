@@ -2,7 +2,7 @@
 
 ## Terminal  
   
-cd to location before operate
+cd to directory before operate
   
 ### Command
 ```
