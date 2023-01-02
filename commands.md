@@ -14,4 +14,4 @@
 |deleateFile|rm|del|
 |clearScreen|clear|cls|
 |openFile|open||
-
+|find file|which||
